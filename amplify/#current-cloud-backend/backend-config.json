@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"todofe55f403c9": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
